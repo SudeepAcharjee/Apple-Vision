@@ -2,6 +2,8 @@
 
 This is a clone of the Apple Vision Pro website built using ReactJS.
 
+## Note
+
 ## Description
 
 The Apple Vision Pro Clone is a web application that replicates the functionality and design of the Apple Vision Pro website. It allows users to explore and purchase Apple products, access support resources, and stay up-to-date with the latest news and announcements.
