@@ -2,7 +2,7 @@
 
 This is a clone of the Apple Vision Pro website built using ReactJS.
 
-## Note
+## Note: This 
 
 ## Description
 
